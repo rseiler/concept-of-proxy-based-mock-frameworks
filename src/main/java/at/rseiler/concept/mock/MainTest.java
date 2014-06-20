@@ -3,7 +3,7 @@ package at.rseiler.concept.mock;
 import org.mockito.Mockito;
 
 /**
- * This class is just shows that the API of all three implementations (MockProxy, MockCgLib, Mockito) are similar.
+ * This class shows that the API of all three implementations (MockProxy, MockCgLib, Mockito) are similar.
  *
  * @author reinhard.seiler@gmail.com
  * @see {@link MockCgLib} and @see {@link MockProxy} for more details and comments.
