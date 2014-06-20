@@ -1,1 +1,5 @@
-This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
+# Concept of proxy based mock frameworks
+
+This code demonstrates how proxy based mock frameworks work like Mockito.
+
+For more information see: http://reinhard-seiler.blogspot.co.at/2014/06/explanation-how-proxy-based-mock.html
